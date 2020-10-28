@@ -1,7 +1,7 @@
 {
     "Author": "Ritesh.Modi",
     "ContentSize": 7158,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/writes-a-message-to-the-event-log./master/Write-EventLog.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/writes-a-message-to-the-event-log/master/Write-EventLog.ps1",
     "DownloadCount": 1113,
     "Id": "This-runbook-writes-a-8d9db470",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This runbook is responsible for writing log entries into event log. This is quite a common requirment and there are specific steps that needs to be performed for writing to event log. THe Event log should exists. THe event source should also exists. This runbook does not crea",
     "Title": "Writes a message to the event log.",
     "UpdatedDate": "2015-4-7T00:00:00",
-    "Url": "https://github.com/azureautomation/writes-a-message-to-the-event-log.",
+    "Url": "https://github.com/azureautomation/writes-a-message-to-the-event-log",
     "UserTags": "Microsoft Azure, Event Logs, Monitoring"
 }
